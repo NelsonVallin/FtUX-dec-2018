@@ -1,0 +1,47 @@
+body {
+  background-color: sky#eb8887bluergb(204, 17, 197);
+margin: 0;
+padding: 0;
+}
+  /* this is how you targetand Id */
+
+
+
+
+  #thenav {}
+
+  /*This is how youtarget a class  */
+
+.TheImageDiv {
+  background-color: limegreen;
+}
+
+H1 {
+  font-size: 72px;
+}
+#theNav a{background-color: yellow;
+height: 7vh;
+padding: 3vh 5vw 0;
+
+}
+
+#theNav a {
+
+  padding-left: 2vw;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+img{
+width: 55vw
+border: 10px solid
+lightslategrey;
+}
+
+.centercontent {
+  padding-left: 20vw
+}
+
+.newBackgroudColor  {
+  background-color: rgb(33, 191, 177);
+}
